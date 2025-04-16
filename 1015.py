@@ -1,10 +1,5 @@
-pontos = []
-
-pontos.append([float(input()), float(input())])
-pontos.append([float(input()), float(input())])
-
-x1, y1 = pontos[0]
-x2, y2 = pontos[1]
+x1, y1 = map(float, input().split())
+x2, y2 = map(float, input().split())
 
 distancia = ((x2 - x1)**2 + (y2 - y1)**2)**0.5
 
