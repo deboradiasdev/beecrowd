@@ -1,10 +1,10 @@
 # 🧠 Beecrownd Challenges
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/beecrownd?color=blue&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/beecrownd?style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/seu-usuario/beecrownd?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/deboradiasdev/beecrowd?color=blue&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/deboradiasdev/beecrowd?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/deboradiasdev/beecrowd?style=flat-square)
 
-📌 Repositório com soluções dos desafios da plataforma [Beecrowd](https://www.beecrowd.com.br), organizados por níveis e linguagens utilizadas. Ideal para treinar lógica, algoritmos e estrutura de dados!
+📌 Repositório com soluções dos desafios da plataforma [Beecrowd](https://www.beecrowd.com.br), ideal para treinar lógica, algoritmos e estrutura de dados!
 
 ---
 
@@ -29,4 +29,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Feito com ❤️ por [Débora Dias](https://github.com/deboradiasdev)
